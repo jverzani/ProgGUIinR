@@ -1,0 +1,40 @@
+10
+
+dir
+548
+svn://had.co.nz/statgraphics/rgtk2/trunk/books/rgui/ProgGUIInR/inst/Examples
+svn://had.co.nz/statgraphics
+
+
+
+2011-08-05T22:46:07.514935Z
+499
+jverzani
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+cc50f0b1-a3fe-0310-a41b-dd7a1cad1176
+
+ch-RGtk2
+dir
+
+ch-gWidgets
+dir
+
+ch-tcltk
+dir
+
+ch-Qt
+dir
+
